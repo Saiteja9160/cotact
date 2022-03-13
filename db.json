@@ -1,0 +1,63 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "signup": [
+    {
+      "name": "LAVANYA KONGALA",
+      "email": "sailavanya45@gmail.com",
+      "mobile": "08179721355",
+      "password": "123456",
+      "id": 1
+    },
+    {
+      "name": "LAVANYA KONGALA",
+      "email": "sai32@gmail.com",
+      "mobile": "08179721355",
+      "password": "123456",
+      "id": 2
+    },
+    {
+      "name": "LAVANYA KONGALA",
+      "email": "sai64@gmail.com",
+      "mobile": "08179721355",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "name": "LAVANYA KONGALA",
+      "email": "sai64@gmail.com",
+      "mobile": "08179721355",
+      "password": "1234",
+      "id": 4
+    },
+    {
+      "name": "LAVANYA KONGALA",
+      "email": "sai23@gmail.com",
+      "mobile": "08179721355",
+      "password": "1234",
+      "id": 5
+    },
+    {
+      "name": "LAVANYA KONGALA",
+      "email": "sai234@gmail.com",
+      "mobile": "08179721355",
+      "password": "1234",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
